@@ -16,7 +16,7 @@ if not os.path.exists("screenshot sorter memory.txt"): # create new memory file
     path_screens = path_screens.replace("/","\\")
     path_place = path_place.replace("/","\\")
 
-    sort_way = messagebox.askyesno("Select sorting method","Sort by Car (recommended)? Click 'No' to sort by track instead") # true = car, false = track
+    sort_way = messagebox.askyesno("Select sorting method","Sort by Car? Click 'No' to sort by track instead") # true = car, false = track
     if sort_way == True:
         sort_way = "Car"
     else:
