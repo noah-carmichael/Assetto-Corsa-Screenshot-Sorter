@@ -1,5 +1,5 @@
 # Assetto-Corsa-Screenshot-Sorter
-Sort AC screenshots previously saved into individual folders for each car
+Sort AC screenshots into individual folders for each car
 
 ![image](https://github.com/noah-carmichael/Assetto-Corsa-Screenshot-Sorter/assets/126828296/a0c8cc41-5a3e-43da-a4c4-55b17045627a)
 
