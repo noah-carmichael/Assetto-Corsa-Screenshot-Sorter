@@ -1,6 +1,8 @@
 # Assetto-Corsa-Screenshot-Sorter
 Sort AC screenshots previously saved into individual folders for each car
 
+![image](https://github.com/noah-carmichael/Assetto-Corsa-Screenshot-Sorter/assets/126828296/a0c8cc41-5a3e-43da-a4c4-55b17045627a)
+
 
 When the executable file is run, you will be asked to select your main AC folder and the folder where your screenshots are saved. This information will be stored in a newly created .txt file in the same folder as the .exe file. After which, you will be able to run the program instantaneously. I recommend putting the .exe into your screenshot folder before running.
 
