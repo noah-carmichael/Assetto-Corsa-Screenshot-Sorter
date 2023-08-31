@@ -1,5 +1,5 @@
 # Assetto-Corsa-Screenshot-Sorter
-Sort AC screenshots into individual folders for each car/track
+Sort AC screenshots into individual folders for each car/track, an alternative to the CSP feature
 
 ![image](https://github.com/noah-carmichael/Assetto-Corsa-Screenshot-Sorter/assets/126828296/a0c8cc41-5a3e-43da-a4c4-55b17045627a)
 
